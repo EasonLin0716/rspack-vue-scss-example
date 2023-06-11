@@ -1,0 +1,25 @@
+{
+  "name": "example-vue3-vanilla",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "dev": "rspack serve",
+    "build": "rspack build"
+  },
+  "dependencies": {
+    "vue": "3.2.47"
+  },
+  "devDependencies": {
+    "@rspack/cli": "^0.1.12",
+    "css-loader": "^6.8.1",
+    "sass": "^1.63.3",
+    "sass-loader": "^13.3.2",
+    "style-loader": "^3.3.3",
+    "vue-loader": "^17.2.2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
